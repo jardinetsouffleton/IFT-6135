@@ -1,0 +1,17 @@
+batch_size    128
+code_file    /home/ubuntu/anaconda3/lib/python3.7/site-packages/ipykernel_launcher.py
+data    data
+debug    False
+dp_keep_prob    0.35
+emb_size    200
+evaluate    False
+hidden_size    512
+initial_lr    20
+model    TRANSFORMER
+num_epochs    40
+num_layers    6
+optimizer    SGD_LR_SCHEDULE
+save_best    True
+save_dir    TRANSFORMER_SGD_LR_SCHEDULE_f_runuser1000jupyterkernel-9e85cc7d-145c-4837-9730-235104c6172e.json_32
+seed    1111
+seq_len    35
